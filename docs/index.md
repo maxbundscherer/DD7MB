@@ -29,3 +29,5 @@ In the meantime, you can take a look at my [A-SDR / Independer](https://a-sdr.or
 DD7MB
 
 ![](images/ov.jpeg)
+
+{% include_relative i_analytic.md %}

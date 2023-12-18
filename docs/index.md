@@ -12,12 +12,12 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 {% include_relative navbar.html %}
 
-## Hello World
-
 **Page Navigation**
 
 * TOC
 {:toc}
+
+## Hello World
 
 Hello everyone,
 

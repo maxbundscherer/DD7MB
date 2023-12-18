@@ -8,7 +8,7 @@ Website of DD7MB
 
 Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
-{% include navbar.html %}
+{% include_relative navbar.html %}
 
 ## Hello World
 

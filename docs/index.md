@@ -8,14 +8,21 @@ Website of DD7MB
 
 Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
+## Navigation
+
 {% include_relative navbar.html %}
 
 ## Hello World
+
+* TOC
+{:toc}
 
 Welcome to my website.
 
 ```
 Work in progress...
 ```
+
+### Other
 
 You can also visit my [A-SDR / Independer](https://a-sdr.org) website.

@@ -1,6 +1,6 @@
 # DD7MB
 
-Website of DD7MB.
+Website of DD7MB
 
 `amateur radio - ham radio - DD7MB`
 

@@ -13,5 +13,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 Welcome to my website.
 
 ```
-tbd
+Work in progress...
 ```
+
+You can also visit my [A-SDR / Independer](https://a-sdr.org) website.

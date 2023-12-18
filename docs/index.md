@@ -19,12 +19,13 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 * TOC
 {:toc}
 
-Welcome to my website.
+Hello everyone,
 
-```
-Work in progress...
-```
+I am happy to be a radio amateur now (12/12/2023). There will be more content on this page in the future...
 
-### Other
+In the meantime, you can take a look at my [A-SDR / Independer](https://a-sdr.org) website.
 
-You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
+73
+DD7MB
+
+![](images/ov.jpeg)

@@ -35,9 +35,9 @@ DD7MB
 
 ## Contact
 
-- CallSign: DD7MB
-- RadioID (DMR): 2631609
 - Mail: <a href="mailto:maximilian@bundscherer-online.de">maximilian@bundscherer-online.de</a>
+- CallSign: DD7MB
+- Radio-ID (DMR): 2631609
 
 When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister-Network - Talkgroups 26284, 26391).
 

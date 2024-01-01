@@ -39,13 +39,15 @@ DD7MB
 - CallSign: DD7MB
 - Radio-ID (DMR): 2631609
 
-When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister-Network - Talkgroups 26284, 26391).
+When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
 
 I am always happy to receive a DMR SMS.
 
 ## A-SDR and Antennas
 
-Before my amateur radio days, I focussed on receiving radio signals via SDR. That's why I still like to use my Nooelec SDR sticks for reception today. I use a MoonRaker groundplane antenna and an Active MLA-30 loop antenna with a HF upconverter (Ham It Up). Sometimes I also use a receiver amplifier, also from MoonRaker. Furthermore I use a HackRF with the ANT500 antenna.
+Before my amateur radio days, I focussed on receiving radio signals via SDR. That's why I still like to use my Nooelec SDR sticks for reception today.
+
+I use a MoonRaker groundplane antenna and an Active MLA-30 loop antenna with a HF upconverter (Ham It Up). Sometimes I also use a receiver amplifier, also from MoonRaker. Furthermore I use a HackRF with the ANT500 antenna.
 
 Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 

@@ -43,12 +43,6 @@ When I'm active, I usually listen on the local FM analogue and DMR repeaters (Br
 
 I am always happy to receive a DMR SMS.
 
-## Logbook
-
-I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time.
-
-<iframe frameborder="0" height="300" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
-
 ## A-SDR and Antennas
 
 Before my amateur radio days, I focussed on receiving radio signals via SDR. That's why I still like to use my Nooelec SDR sticks for reception today. I use a MoonRaker groundplane antenna and an Active MLA-30 loop antenna with a HF upconverter (Ham It Up). Sometimes I also use a receiver amplifier, also from MoonRaker. Furthermore I use a HackRF with the ANT500 antenna.
@@ -56,6 +50,12 @@ Before my amateur radio days, I focussed on receiving radio signals via SDR. Tha
 Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 ![](images/ov.jpeg)
+
+## Logbook
+
+I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time.
+
+<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 
 
 {% include_relative i_analytic.md %}

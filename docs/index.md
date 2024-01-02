@@ -63,7 +63,7 @@ I only send [APRS messages](https://aprs.fi/info/DD7MB) from time to time. I use
 
 ## Logbook
 
-I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time.
+I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me.
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 

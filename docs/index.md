@@ -53,6 +53,12 @@ Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 ![](images/ov.jpeg)
 
+## APRS
+
+I only send [APRS messages](https://aprs.fi/info/DD7MB) from time to time. I use [SSID 9](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
+
+<iframe frameborder="0" height="400" scrolling="yes" src="https://aprs.fi/info/DD7MB" width="90%"></iframe>
+
 ## Logbook
 
 I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time.

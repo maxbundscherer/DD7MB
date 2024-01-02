@@ -23,6 +23,8 @@ Hello everyone,
 
 I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QTH JN59NK).
 
+Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
+
 I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS. Thankfully I am also allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW).
 
 I am interested in many modes, especially PSK31, FT8, satellite communication, RTTY, SSTV, APT, and further developments of these modes.
@@ -64,6 +66,12 @@ I only send [APRS messages](https://aprs.fi/info/DD7MB) from time to time. I use
 I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time.
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
+
+## Reception Report
+
+Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. Alternatively, you can also use the following form directly:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNXHDvpPxTlIa8USekKusagtEgMAPDu1zNjDGgaevJW4xSGg/viewform?embedded=true" width="90%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 {% include_relative i_analytic.md %}

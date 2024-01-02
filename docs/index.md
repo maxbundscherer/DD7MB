@@ -57,9 +57,7 @@ Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 ## APRS
 
-I only send [APRS messages](https://aprs.fi/info/DD7MB) from time to time. I use [SSID 9](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
-
-<iframe frameborder="0" height="400" scrolling="yes" src="https://aprs.fi/info/DD7MB" width="90%"></iframe>
+I only send APRS messages [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB) from time to time. I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
 
 ## Logbook
 

@@ -27,7 +27,7 @@ Did you hear me? I would be delighted if you would let me know when you heard me
 
 I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS. Thankfully I am also allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW).
 
-I am interested in many modes, especially PSK31, FT8, satellite communication, RTTY, SSTV, APT, and further developments of these modes.
+I am interested in many modes, especially PSK31, FT8, Olivia, JS8, satellite communication, RTTY, SSTV, APT, and further developments of these modes.
 
 You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
 
@@ -61,7 +61,7 @@ I only send APRS messages [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB) from tim
 
 ## Logbook
 
-I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me.
+I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 

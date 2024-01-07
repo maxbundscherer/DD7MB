@@ -59,11 +59,19 @@ Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 I only send APRS messages [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB) from time to time. I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
 
-## Logbook
+## Logbook(s)
+
+### DD7MB
 
 I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
+
+### DF0OHM
+
+I am allowed to manage the QRZ page of the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - it has its own [logbook](https://logbook.qrz.com/lbstat/DF0OHM/) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW).
+
+<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
 
 ## Reception Report
 

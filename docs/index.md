@@ -43,7 +43,7 @@ DD7MB
 
 When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
 
-I am always happy to receive a DMR SMS.
+If you want the message to arrive (reliably), please send it by e-mail.
 
 ## A-SDR and Antennas
 

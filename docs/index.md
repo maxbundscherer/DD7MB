@@ -25,7 +25,7 @@ I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QT
 
 Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
 
-I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS. Thankfully I am also allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW).
+Thankfully I am also allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW). There I am mainly active on HF at the moment. I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS.
 
 I am interested in many modes, especially PSK31, FT8, Olivia, JS8, satellite communication, RTTY, SSTV, APT, and further developments of these modes.
 
@@ -41,7 +41,7 @@ DD7MB
 - CallSign: DD7MB
 - Radio-ID (DMR): 2631609
 
-When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
+I am mainly active on HF at the moment. When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
 
 If you want the message to arrive (reliably), please send it by e-mail.
 
@@ -69,7 +69,7 @@ I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbst
 
 ### DF0OHM
 
-I am allowed to manage the QRZ page of the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - it has its own [logbook](https://logbook.qrz.com/lbstat/DF0OHM/) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW).
+I am allowed to manage the QRZ page of the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - it has its own [logbook](https://logbook.qrz.com/lbstat/DF0OHM/). There I am mainly active on HF at the moment.
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
 

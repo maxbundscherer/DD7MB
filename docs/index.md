@@ -21,13 +21,13 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 Hello everyone,
 
-I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QTH JN59NK).
-
-Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
+I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QTH JN59NK) and I am a member of DARC (DOK B11).
 
 Thankfully I am also allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW). There I am mainly active on HF at the moment. I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS.
 
 I am interested in many modes, especially PSK31, FT8, Olivia, JS8, satellite communication, RTTY, SSTV, APT, and further developments of these modes.
+
+Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
 
 You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
 

@@ -35,7 +35,7 @@ You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
 
 DD7MB
 
-<img src="images/qrz.png" style="max-height: 400px" alt="">
+<img src="images/qrz.png" style="max-height: 300px" alt="">
 
 ## Contact
 

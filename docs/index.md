@@ -63,17 +63,17 @@ I only send APRS messages [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB) from tim
 
 ## Logbook(s)
 
-### DD7MB
-
-I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
-
-<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
-
 ### DF0OHM
 
 I am allowed to manage the QRZ page of the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - it has its own [logbook](https://logbook.qrz.com/lbstat/DF0OHM/). There I am mainly active on HF at the moment.
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
+
+### DD7MB
+
+I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
+
+<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 
 ## HF Propagation
 

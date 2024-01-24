@@ -35,6 +35,8 @@ You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
 
 DD7MB
 
+<img src="images/qrz.png" style="max-height: 300px" alt="">
+
 ## Contact
 
 - Mail: <a href="mailto:maximilian@bundscherer-online.de">maximilian@bundscherer-online.de</a>
@@ -53,7 +55,7 @@ I use a MoonRaker groundplane antenna and an Active MLA-30 loop antenna with a H
 
 Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
-![](images/ov.jpeg)
+<img src="images/ov.jpeg" style="max-height: 300px" alt="">
 
 ## APRS
 

@@ -77,6 +77,10 @@ I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbst
 
 ## HF Propagation
 
+For propagation conditions, especially for QTH Germany, I recommend the [weather and propagation forecast by fading.de](https://www.fading.de/funkwetter/das-aktuelle-funkwetter) and the [DX propagation map by DR2W](https://dr2w.de/dx-propagation/).
+
+I also recommend the [solar-terrestrial data by hamqsl.com](https://www.hamqsl.com/solar.html):
+
 <center>
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php"></a>
 </center>

@@ -21,7 +21,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 Hello everyone,
 
-I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QTH JN59NK) and I am a member of DARC (DOK B11).
+I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QTH JN59NK) and I am a member of DARC (DOK B11). I prefer **QSL via Bureau** - alternatively also via eQSL and QRZ.
 
 Thankfully I am allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW). There I am mainly active on HF at the moment. I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS.
 

@@ -89,6 +89,8 @@ I also recommend the [solar-terrestrial data by hamqsl.com](https://www.hamqsl.c
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php"></a>
 </center>
 
+[VOACAP](https://www.voacap.com/11m/index.html) and [KC2G](https://prop.kc2g.com/) can also be useful to estimate propagation conditions.
+
 ## Reception Report
 
 Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. Alternatively, you can also use the following form directly:

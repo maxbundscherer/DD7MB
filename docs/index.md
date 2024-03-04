@@ -25,7 +25,7 @@ I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QT
 
 Thankfully I am allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW). There I am mainly active on HF at the moment. I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS.
 
-I am interested in many modes, especially PSK31, FT8, Olivia, JS8, satellite communication, RTTY, SSTV, APT, and further developments of these modes.
+I am interested in many modes, especially PSK31, FT8, Olivia, CW/Morse, satellite communication, RTTY, and further developments of these modes.
 
 Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
 
@@ -59,7 +59,9 @@ Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 ## APRS
 
-I only send APRS messages [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB) from time to time. I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
+I regularly send APRS messages via my LoRa iGate [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB). I also use it to forward messages to the APRS-IS.
+
+I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
 
 ## Logbook(s)
 

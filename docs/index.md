@@ -23,7 +23,11 @@ Hello everyone,
 
 I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QTH JN59NK) and I am a member of DARC (DOK B11). I prefer **QSL via Bureau** - alternatively also via eQSL and QRZ.
 
-Thankfully I am allowed to use the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - thanks to [DL1NAW](https://www.qrz.com/db/DL1NAW). There I am mainly active on HF at the moment. I use an ALINCO DJ-MD-5X-EG handheld radio for DMR & FM and APRS.
+I am mainly active using the following callsigns and radios:
+
+* [DF0OHM](https://www.qrz.com/db/DF0OHM) - *HF/VHF/UHF* - Club Station Of Technische Hochschule Nuernberg Georg Simon Ohm (Kenwood TS-2000)
+* [DD7MB](https://www.qrz.com/db/DD7MB) - *HF* - Personal callsign (Icom IC-7300)
+* [DD7MB/P](https://www.qrz.com/db/DD7MB) - *VHF/UHF* - Portable operation (Alinco DJ-MD-5X-EG)
 
 I am interested in many modes, especially PSK31, FT8, Olivia, CW/Morse, satellite communication, RTTY, and further developments of these modes.
 
@@ -39,11 +43,11 @@ DD7MB
 
 ## Contact
 
-- Mail: <a href="mailto:maximilian@bundscherer-online.de">maximilian@bundscherer-online.de</a>
-- CallSign: DD7MB
-- Radio-ID (DMR): 2631609
+* Mail: <a href="mailto:maximilian@bundscherer-online.de">maximilian@bundscherer-online.de</a>
+* CallSign: DD7MB
+* Radio-ID (DMR): 2631609
 
-I am mainly active on HF at the moment. When I'm active, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
+I am mainly active on HF at the moment. When I'm active on VHF and UHF, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
 
 If you want the message to arrive (reliably), please send it by e-mail.
 
@@ -67,7 +71,7 @@ I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on f
 
 ### DF0OHM
 
-I am allowed to manage the QRZ page of the club station [DF0OHM](https://www.qrz.com/db/DF0OHM) - it has its own [logbook](https://logbook.qrz.com/lbstat/DF0OHM/). There I am mainly active on HF at the moment.
+I am allowed to manage the QRZ page and logbook of the club station [DF0OHM](https://logbook.qrz.com/lbstat/DF0OHM/).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
 

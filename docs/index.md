@@ -25,8 +25,8 @@ I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QT
 
 I am mainly active using the following callsigns and radios:
 
-* [DF0OHM](https://www.qrz.com/db/DF0OHM) - *HF/VHF/UHF* - Club Station Of Technische Hochschule Nuernberg Georg Simon Ohm (Kenwood TS-2000)
-* [DD7MB](https://www.qrz.com/db/DD7MB) - *HF* - Personal callsign (Icom IC-7300)
+* [DF0OHM](https://www.qrz.com/db/DF0OHM) - *HF/VHF/UHF* - Club Station Of Technische Hochschule Nuernberg Georg Simon Ohm (Kenwood TS-2000 with T2FD Antenna)
+* [DD7MB](https://www.qrz.com/db/DD7MB) - *HF* - Personal callsign (Icom IC-7300 with Difona HF-P1 Antenna)
 * [DD7MB/P](https://www.qrz.com/db/DD7MB) - *VHF/UHF* - Portable operation (Alinco DJ-MD-5X-EG)
 
 I am interested in many modes, especially PSK31, FT8, Olivia, CW/Morse, satellite communication, RTTY, and further developments of these modes.

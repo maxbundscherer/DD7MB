@@ -59,12 +59,6 @@ I operate a [satellite ground station](https://network.satnogs.org/stations/3682
 
 Currently only test operation with a vertical antenna for 2m and 70cm. In preparation for an azimuth and elevation rotor with cross-yagis.
 
-## APRS
-
-I regularly send APRS messages via my LoRa iGate [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB). I also use it to forward messages to the APRS-IS.
-
-I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
-
 ## A-SDR and Antennas
 
 Before my amateur radio days, I focussed on receiving radio signals via SDR. That's why I still like to use my Nooelec SDR sticks for reception today.
@@ -74,6 +68,12 @@ I use a MoonRaker groundplane antenna and an Active MLA-30 loop antenna with a H
 Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 <img src="images/ov.jpeg" style="max-height: 400px" alt="">
+
+## APRS
+
+I regularly send APRS messages via my LoRa iGate [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB). I also use it to forward messages to the APRS-IS.
+
+I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
 
 ## Logbook(s)
 

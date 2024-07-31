@@ -25,11 +25,13 @@ I am happy to be a radio amateur now (12/12/2023)! I am located in Nuremberg (QT
 
 I am mainly active using the following callsigns and radios:
 
-* [DF0OHM](https://www.qrz.com/db/DF0OHM) - *HF/VHF/UHF* - Club Station Of Technische Hochschule Nuernberg Georg Simon Ohm (Kenwood TS-2000X with T2FD Antenna)
+* [DF0OHM](https://www.qrz.com/db/DF0OHM) - *HF/VHF/UHF* - Club Station Of Technische Hochschule Nuernberg Georg Simon Ohm (Kenwood TS-2000X or Icom IC-7300 with T2FD Antenna)
 * [DD7MB](https://www.qrz.com/db/DD7MB) - *HF* - Personal callsign (Icom IC-7300 with Difona HF-P1 Antenna)
 * [DD7MB/P](https://www.qrz.com/db/DD7MB) - *VHF/UHF* - Portable operation (Alinco DJ-MD-5X-EG)
 
-I am interested in many modes, especially PSK31, FT8, Olivia, CW/Morse, satellite communication, RTTY, and further developments of these modes.
+I am interested in many modes, especially PSK31, FT8, Olivia, CW/Morse, satellite communication, RTTY, FT8, JS8, SSTV and further developments of these modes.
+
+I am currently mainly active on HF with [DF0OHM](https://logbook.qrz.com/lbstat/DF0OHM/).
 
 Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
 
@@ -51,6 +53,18 @@ I am mainly active on HF at the moment. When I'm active on VHF and UHF, I usuall
 
 If you want the message to arrive (reliably), please send it by e-mail.
 
+## Satellite Ground Station (SatNOGS)
+
+I operate a [satellite ground station](https://network.satnogs.org/stations/3682/) at DF0OHM in the SatNOGS network.
+
+Currently only test operation with a vertical antenna for 2m and 70cm. In preparation for an azimuth and elevation rotor with cross-yagis.
+
+## APRS
+
+I regularly send APRS messages via my LoRa iGate [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB). I also use it to forward messages to the APRS-IS.
+
+I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
+
 ## A-SDR and Antennas
 
 Before my amateur radio days, I focussed on receiving radio signals via SDR. That's why I still like to use my Nooelec SDR sticks for reception today.
@@ -61,17 +75,11 @@ Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 <img src="images/ov.jpeg" style="max-height: 400px" alt="">
 
-## APRS
-
-I regularly send APRS messages via my LoRa iGate [DD7MB (aprs.fi)](https://aprs.fi/info/DD7MB). I also use it to forward messages to the APRS-IS.
-
-I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
-
 ## Logbook(s)
 
 ### DF0OHM
 
-I am allowed to manage the QRZ page and logbook of the club station [DF0OHM](https://logbook.qrz.com/lbstat/DF0OHM/).
+I am currently mainly active on HF with [DF0OHM](https://logbook.qrz.com/lbstat/DF0OHM/).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
 

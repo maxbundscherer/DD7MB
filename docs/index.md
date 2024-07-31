@@ -31,7 +31,7 @@ I am mainly active using the following callsigns and radios:
 
 I am interested in many modes, especially PSK31, FT8, Olivia, CW/Morse, satellite communication, RTTY, FT8, JS8, SSTV and further developments of these modes.
 
-I am currently mainly active on HF with [DF0OHM](https://logbook.qrz.com/lbstat/DF0OHM/).
+I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 
 Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
 
@@ -79,13 +79,13 @@ Read more about this on my [A-SDR / Independer](https://a-sdr.org) website.
 
 ### DF0OHM
 
-I am currently mainly active on HF with [DF0OHM](https://logbook.qrz.com/lbstat/DF0OHM/).
+I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
 
 ### DD7MB
 
-I only synchronise my logbook with my [QRZ-Logbook](https://logbook.qrz.com/lbstat/DD7MB/) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
+I only synchronise my logbook with my [QRZ-Logbook](https://www.qrz.com/db/DD7MB) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 

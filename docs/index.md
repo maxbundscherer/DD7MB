@@ -85,7 +85,7 @@ I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 
 ### DD7MB
 
-I only synchronise my logbook with my [QRZ-Logbook](https://www.qrz.com/db/DD7MB) from time to time. This logbook is not complete and does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
+My [logbook](https://www.qrz.com/db/DD7MB) does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 

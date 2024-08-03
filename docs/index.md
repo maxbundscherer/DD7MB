@@ -55,9 +55,11 @@ If you want the message to arrive (reliably), please send it by e-mail.
 
 ## Satellite Ground Station (SatNOGS)
 
-I operate a [satellite ground station](https://network.satnogs.org/stations/3682/) at DF0OHM in the SatNOGS network.
+I operate a [satellite ground station](https://network.satnogs.org/stations/3689/) at DF0OHM in the SatNOGS network.
 
-Currently only test operation with a vertical antenna for 2m and 70cm. In preparation for an azimuth and elevation rotor with cross-yagis.
+Currently only test operation with a Turnstile Antenna for VHF. In preparation for an azimuth and elevation rotor with cross-yagis.
+
+<img src="images/antsTURNCom.jpg" style="max-height: 400px" alt="">
 
 ## A-SDR and Antennas
 

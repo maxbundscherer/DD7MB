@@ -29,7 +29,7 @@ I am mainly active using the following callsigns and radios:
 * [DD7MB](https://www.qrz.com/db/DD7MB) - *HF* - Personal callsign (Icom IC-7300 with Difona HF-P1 Antenna)
 * [DD7MB/P](https://www.qrz.com/db/DD7MB) - *VHF/UHF* - Portable operation (Alinco DJ-MD-5X-EG)
 
-I am interested in many modes, especially PSK31, Olivia, CW/Morse, satellite communication, RTTY, FT8, JS8, SSTV and further developments of these modes.
+I am interested in many modes, especially PSK31, Olivia, CW/Morse, satellite communication, Meteor Scatter, RTTY, FT8, JS8, SSTV and further developments of these modes.
 
 I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 

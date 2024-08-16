@@ -57,7 +57,7 @@ If you want the message to arrive (reliably), please send it by e-mail.
 
 I operate a [satellite ground station](https://network.satnogs.org/stations/3689/) at DF0OHM in the SatNOGS network.
 
-Currently only test operation with a Turnstile Antenna for VHF. In preparation for an azimuth and elevation rotor with cross-yagis.
+An RTL-SDR (Nooelec v5) with a Turnstile antenna (TA-1) for VHF is currently in use. In the future, an azimuth and elevation rotor with Cross-Yagis will be used.
 
 <img src="images/antsTURNCom.jpg" style="max-height: 400px" alt="">
 

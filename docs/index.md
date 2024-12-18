@@ -43,9 +43,12 @@ DD7MB
 
 I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 
+<img src="images/ants5LPDA8.jpeg" style="max-height: 300px" alt="">
+
 I have published a small report for this station for the year 2024. You can find it [here](df0ohm-2024.md).
 
-<img src="images/ants5LPDA8.jpeg" style="max-height: 300px" alt="">
+<img src="images/df0ohm_demo_map.png" style="max-height: 150px;" alt="">
+<img src="images/df0ohm_demo_qso_count_over_time.png" style="max-height: 150px" alt="">
 
 ## Satellite Ground Station (SatNOGS)
 

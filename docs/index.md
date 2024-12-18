@@ -31,10 +31,6 @@ I am mainly active using the following callsigns and radios:
 
 I am interested in many modes, especially PSK31, Olivia, CW/Morse, satellite communication, Meteor Scatter, RTTY, FT8, JS8, SSTV and further developments of these modes.
 
-I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
-
-Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. This form is also included at the bottom of this website.
-
 You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
 
 73
@@ -43,17 +39,13 @@ DD7MB
 
 <img src="images/qrz.png" style="max-height: 300px" alt="">
 
+## DF0OHM in 2024
+
+I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
+
+I have published a small report for this station for the year 2024. You can find it [here](df0ohm-2024.md).
+
 <img src="images/ants5LPDA8.jpeg" style="max-height: 300px" alt="">
-
-## Contact
-
-* Mail: <a href="mailto:maximilian@bundscherer-online.de">maximilian@bundscherer-online.de</a>
-* CallSign: DD7MB
-* Radio-ID (DMR): 2631609
-
-I am mainly active on HF at the moment. When I'm active on VHF and UHF, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
-
-If you want the message to arrive (reliably), please send it by e-mail.
 
 ## Satellite Ground Station (SatNOGS)
 
@@ -108,6 +100,16 @@ I also recommend the [solar-terrestrial data by hamqsl.com](https://www.hamqsl.c
 </center>
 
 [VOACAP](https://www.voacap.com/11m/index.html) and [KC2G](https://prop.kc2g.com/) can also be useful to estimate propagation conditions.
+
+## Contact
+
+* Mail: <a href="mailto:maximilian@bundscherer-online.de">maximilian@bundscherer-online.de</a>
+* CallSign: DD7MB
+* Radio-ID (DMR): 2631609
+
+I am mainly active on HF at the moment. When I'm active on VHF and UHF, I usually listen on the local FM analogue and DMR repeaters (Brandmeister Network - Talkgroups 26284, 26391).
+
+If you want the message to arrive (reliably), please send it by e-mail.
 
 ## Reception Report
 

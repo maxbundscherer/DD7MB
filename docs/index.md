@@ -39,6 +39,8 @@ DD7MB
 
 <img src="images/qrz.png" style="max-height: 300px" alt="">
 
+<img src="https://hamalert.org/myspot?c=DD7MB&h=66c01cdf2c5dee13&a=768" srcset="https://hamalert.org/myspot?c=DD7MB&h=66c01cdf2c5dee13&a=768&hr=1 2x" />
+
 ## DF0OHM in 2024
 
 I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).

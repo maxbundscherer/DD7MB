@@ -80,17 +80,25 @@ I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on f
 
 ## Logbook(s)
 
-### DF0OHM
+### DF0OHM QRZ
 
 I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
 
-### DD7MB
+### DF0OHM Club Log
+
+<iframe frameborder="0" height="300" scrolling="yes" src="https://clublog.org/logsearch.php?log=DF0OHM&amp;iframe=1" width="90%"></iframe>
+
+### DD7MB QRZ
 
 My [QRZ-logbook](https://www.qrz.com/db/DD7MB) does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
 
 <iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
+
+### DD7MB Club Log
+
+<iframe frameborder="0" height="300" scrolling="yes" src="https://clublog.org/logsearch.php?log=DF0OHM&amp;iframe=1" width="90%"></iframe>
 
 ## HF Propagation
 

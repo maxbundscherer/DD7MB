@@ -78,28 +78,6 @@ I regularly send APRS messages via my LoRa iGate [DD7MB (aprs.fi)](https://aprs.
 
 I use [DD7MB-9 (aprs.fi)](https://aprs.fi/info/DD7MB-9) when I'm travelling on foot or by car.
 
-## Logbook(s)
-
-### DF0OHM QRZ
-
-I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
-
-<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
-
-### DF0OHM Club Log
-
-<iframe frameborder="0" height="300" scrolling="yes" src="https://clublog.org/logsearch.php?log=DF0OHM&amp;iframe=1" width="90%"></iframe>
-
-### DD7MB QRZ
-
-My [QRZ-logbook](https://www.qrz.com/db/DD7MB) does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
-
-<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
-
-### DD7MB Club Log
-
-<iframe frameborder="0" height="300" scrolling="yes" src="https://clublog.org/logsearch.php?log=DF0OHM&amp;iframe=1" width="90%"></iframe>
-
 ## HF Propagation
 
 For propagation conditions, especially for QTH Germany, I recommend the [weather and propagation forecast by fading.de](https://www.fading.de/funkwetter/das-aktuelle-funkwetter) and the [DX propagation map by DR2W](https://dr2w.de/dx-propagation/).
@@ -126,11 +104,18 @@ I am mainly active on HF at the moment. When I'm active on VHF and UHF, I usuall
 
 If you want the message to arrive (reliably), please send it by e-mail.
 
-## Reception Report
+## Logbook(s)
 
-Did you hear me? I would be delighted if you would let me know when you heard me. I have set up a [small and simple online form](https://forms.gle/byaGX86faruhT4m97) for this purpose. Alternatively, you can also use the following form directly:
+### DF0OHM
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNXHDvpPxTlIa8USekKusagtEgMAPDu1zNjDGgaevJW4xSGg/viewform?embedded=true" width="90%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
 
+<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF0OHM/" width="90%"></iframe>
+
+### DD7MB
+
+My [QRZ-logbook](https://www.qrz.com/db/DD7MB) does not contain any other callsigns or suffixes used by me (e.g. DF0OHM or /P).
+
+<iframe frameborder="0" height="400" scrolling="yes" src="https://logbook.qrz.com/lbstat/DD7MB/" width="90%"></iframe>
 
 {% include_relative i_analytic.md %}

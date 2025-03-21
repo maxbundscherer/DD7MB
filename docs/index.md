@@ -56,9 +56,11 @@ I have published a small report for this station for the year 2024. You can find
 
 ## Satellite Ground Station (SatNOGS)
 
-I operate a [satellite ground station](https://network.satnogs.org/stations/3689/) at DF0OHM in the SatNOGS network.
+I operate [satellite ground stations](https://network.satnogs.org/users/dd7mb/) at DF0OHM in the SatNOGS network.
 
-An RTL-SDR (Nooelec v5) with a Turnstile antenna (TA-1) for VHF is currently in use. In the future, an azimuth and elevation rotor with Cross-Yagis will be used.
+All stations use RTL-SDR (Nooelec v5) receivers. A Turnstile antenna (TA-1) and a VHF-Cross-Yagi with tracking are used for VHF. For UHF, a UHF-Cross-Yagi is also used with tracking.
+
+<img src="images/df0ohmRotorCom.jpg" style="max-height: 400px" alt="">
 
 <img src="images/antsTURNCom.jpg" style="max-height: 400px" alt="">
 

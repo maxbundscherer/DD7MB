@@ -43,7 +43,7 @@ DD7MB
 
 <img src="https://hamalert.org/myspot?c=DD7MB&h=66c01cdf2c5dee13&a=768" srcset="https://hamalert.org/myspot?c=DD7MB&h=66c01cdf2c5dee13&a=768&hr=1 2x" />
 
-## Satellite Ground Station (SatNOGS)
+## Satellite Ground Stations (SatNOGS)
 
 I operate [satellite ground stations](https://network.satnogs.org/users/dd7mb/) at DF0OHM in the SatNOGS network.
 

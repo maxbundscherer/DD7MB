@@ -43,6 +43,16 @@ DD7MB
 
 <img src="https://hamalert.org/myspot?c=DD7MB&h=66c01cdf2c5dee13&a=768" srcset="https://hamalert.org/myspot?c=DD7MB&h=66c01cdf2c5dee13&a=768&hr=1 2x" />
 
+## Satellite Ground Station (SatNOGS)
+
+I operate [satellite ground stations](https://network.satnogs.org/users/dd7mb/) at DF0OHM in the SatNOGS network.
+
+All stations use RTL-SDR (Nooelec v5) receivers. A Turnstile antenna (TA-1) and a VHF-Cross-Yagi with tracking are used for VHF. For UHF, a UHF-Cross-Yagi is also used with tracking.
+
+<img src="images/df0ohmRotorCom.jpg" style="max-height: 400px" alt="">
+
+<img src="images/antsTURNCom.jpg" style="max-height: 400px" alt="">
+
 ## DF0OHM in 2024
 
 I am currently mainly active on HF with [DF0OHM](https://www.qrz.com/db/DF0OHM).
@@ -53,16 +63,6 @@ I have published a small report for this station for the year 2024. You can find
 
 <img src="images/df0ohm_demo_map.png" style="max-height: 150px;" alt="">
 <img src="images/df0ohm_demo_qso_count_over_time.png" style="max-height: 150px" alt="">
-
-## Satellite Ground Station (SatNOGS)
-
-I operate [satellite ground stations](https://network.satnogs.org/users/dd7mb/) at DF0OHM in the SatNOGS network.
-
-All stations use RTL-SDR (Nooelec v5) receivers. A Turnstile antenna (TA-1) and a VHF-Cross-Yagi with tracking are used for VHF. For UHF, a UHF-Cross-Yagi is also used with tracking.
-
-<img src="images/df0ohmRotorCom.jpg" style="max-height: 400px" alt="">
-
-<img src="images/antsTURNCom.jpg" style="max-height: 400px" alt="">
 
 ## A-SDR and Antennas
 

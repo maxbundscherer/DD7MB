@@ -31,7 +31,7 @@ I am mainly active using the following callsigns and radios:
 
 I am interested in many modes, especially PSK31, Olivia, CW/Morse, satellite communication, Meteor Scatter, RTTY, FT8, JS8, SSTV and further developments of these modes.
 
-You can also visit my [A-SDR / Independer](https://a-sdr.org) website.
+You can also visit my [A-SDR / Independer](https://a-sdr.org) or my [personal](https://bundscherer-online.de) website.
 
 73
 

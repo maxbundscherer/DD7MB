@@ -47,7 +47,7 @@ DD7MB
 
 I operate [satellite ground stations](https://network.satnogs.org/users/dd7mb/) at DF0OHM in the SatNOGS network.
 
-All stations use RTL-SDR (Nooelec v5) receivers. A Turnstile antenna (TA-1) and a VHF-Cross-Yagi with tracking are used for VHF. For UHF, a UHF-Cross-Yagi is also used with tracking.
+All stations use RTL-SDR (Nooelec v5) receivers. A Turnstile antenna (TA-1) and a VHF-Cross-Yagi with tracking are used for VHF. For UHF, a UHF-Cross-Yagi is also used with tracking and a UHF bandpass filter with an LNA (PGA-103+).
 
 <img src="images/df0ohmRotorCom.jpg" style="max-height: 400px" alt="">
 
